@@ -1,7 +1,15 @@
+# Olá, eu sou o Lucas! 👋
+
 ### 🛡️ Cybersecurity Journey
 
 <a href="https://tryhackme.com/p/Exhaustill">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Exhaustill.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Exhaustill.png" alt="TryHackMe Badge">
 </a>
 
-[![Exhaustill's TryHackMe Stats](https://tryhackme-stats.vercel.app/api/stats?user=Exhaustill)](https://tryhackme.com/p/Exhaustill)
+<br/>
+
+<a href="https://tryhackme.com/p/Exhaustill">
+  <img src="https://tryhackme-stats.vercel.app/api/stats?user=Exhaustill&theme=dark" alt="Exhaustill's TryHackMe Stats">
+</a>
+
+---
