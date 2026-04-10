@@ -1,7 +1,5 @@
-### 🛡️ Cybersecurity Journey
+### 🛡️ Cybersecurity & Full Stack Development
 
-<a href="https://tryhackme.com/p/Exhaustill">
-  <img src="thm-stats.png" width="300" alt="TryHackMe Stats">
-</a>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Exhaustill-013243?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Exhaustill)
 
 ---
